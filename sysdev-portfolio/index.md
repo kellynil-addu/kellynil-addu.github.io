@@ -9,7 +9,10 @@ that benefit people.
 
 ## Projects
 
-### (2026) Game Mod Downloader
+### (2026) Game Mod Downloader <br> <small> Svelte, ExpressJS, >SQLite </small>
+
+● **[Demo Video](moddl-demo.mpg)** 
+● **[Source Code](https://github.com/kelly-neil/node-l4d2-server-manager)** ● 
 
 I often remotely download Steam Workshop files on a different machine, but I often find myself using ssh, curl, and other tools more times than I should, so I thought I would automate that instead.
 
@@ -20,39 +23,42 @@ Then, for the sake learning and partly for fun, I put it on some design and adde
 
 The project is currently functional, but I continue to look for ways to integrate other technologies like Docker and CLI tools to make the project more convenient for everyone.
 
-#### ● [Demo Video](/moddl-demo.mpg) ● [Source Code](https://github.com/kelly-neil/node-l4d2-server-manager) ● 
 
-| ![](/moddl-addons.png) | ![](/moddl-users.png) |
+| ![](moddl-addons.png) | ![](moddl-users.png) |
 | :--: | :--: |
 | Managing addons | Whitelisting users to allow access to the app
 
 
-### (2024) Raspberry Pi Irrigation System
+
+### (2024) Raspberry Pi Irrigation System <br> <small> Python </small>
+
+● **[Source Code](https://github.com/kelly-neil/pico-automatic-irrigation)** ●
 
 I was the one in our group responsible for the design and programming of our STEM capstone project, the irrigation system.
 
 The microcontroller board is programmed to record sensor readings and to activate the water pump once the soil has become dry. 
 Then, a web interface is also served to the local network so that any local devices with a browser can access live and historical data via the dashboard.
 
-#### ● [Source Code](https://github.com/kelly-neil/pico-automatic-irrigation) ●
 
-| ![](/irrig-ui.png) | ![](/irrig-setup.png)
+
+| ![](irrig-ui.png) | ![](irrig-setup.png)
 | :--: | :--: |
 | Dashboard | Setup of Irrigation System during its development
 
 
 
-### (2022-2023) Personal Website
+### (2022-2023) Personal Website <br> <small> JavaScript, PHP, MySQL </small>
+
+● **[Live Website](https://elkly.infinityfreeapp.com/)** ●
 
 I started this project with my curiosity on how I could achieve a working website from scratch that is live for other people to see. Step by step, I was able to learn  beyond just plain HTML and JavaScript and to other web technologies like PHP, front-end libraries, and WordPress.
 
-I no longer use this website actively, however this is the project that took of my journey in learning web development.
+I no longer use this website actively, however this is the project that took off my journey in learning web development.
 
-#### ● [Live Website](https://elkly.infinityfreeapp.com/) ●
 
-| ![](/elkly-home.png) |
-| :--: |
-| Home page |
+| ![](elkly-home.png) | ![](elkly-posts.png) |
+| :--: | :--: |
+| Home page | Posts page
 
 
 
